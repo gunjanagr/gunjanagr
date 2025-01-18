@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gunjan Agarwal
 <div align="center">
-  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzgxeHNsYmYyOGlrY2xwaWtndThqY2R3azFteGlpNzAxZWc2ZWFjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okZ8eqHMUPDdLEAIkf/giphy.gif)"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
 
 ## 🌟 About Me
