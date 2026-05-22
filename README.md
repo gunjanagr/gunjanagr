@@ -20,7 +20,7 @@
 - 📍 Based in Jaipur, India
 - 🎯 Seeking Data Analyst roles
 - 🔍 I turn messy data into actionable business decisions
-- 🛠️ Building end-to-end analytics projects with Python, SQL, Power BI & Tableau
+- 🛠️ Building end-to-end analytics projects with Python, SQL, Power BI and Tableau
 
 ---
 
@@ -63,7 +63,7 @@
 > Power BI · DAX · Excel
 
 - Tracked **$244K revenue** across **250 orders** and **714 units** sold
-- Electronics top category (~$140K) · Refrigerator top product (~$75K) · Miami top city (~$32K)
+- Electronics top category (140K) · Refrigerator top product (75K) · Miami top city (32K)
 - PayPal most used payment method (24%) · Sales peaked Feb 2025 then declined sharply
 - **Key insight:** 65% of orders are pending or cancelled — critical fulfillment gap identified
 
@@ -74,13 +74,13 @@
 
 - Analyzed 500 rows across 20+ countries, 10 genres, Free vs Premium users
 - Classical leads global streams · R&B has longest avg stream duration
-- Free and Premium users skip at nearly identical rates (~20%) — skipping is content-driven, not ads
+- Free and Premium users skip at nearly identical rates (20%) — skipping is content-driven, not ads
 - South Korea, Sweden, South Africa lead total hours streamed
 - 🌐 [Live Dashboard](https://gunjanagr.github.io/Spotify-Dashboard-/) · 📊 [Tableau Public](https://public.tableau.com/app/profile/gunjan.agarwal7499/viz/SpotifyGlobalStreamingDashboard2024/Dashboard1)
 
 ---
 
-### 📈 [Time Series Sales Forecasting](https://github.com/gunjanagr/Forecast-Analysis-Project)
+### 📈 [Forecast Analysis Project](https://github.com/gunjanagr/Forecast-Analysis-Project)
 > Python · SARIMA · Holt-Winters · Streamlit
 
 - Implemented SARIMA and Holt-Winters models with automated parameter selection
@@ -93,10 +93,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunjanagr&show_icons=true&hide_border=true&count_private=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=gunjanagr&show_icons=true&hide_border=true&theme=default&count_private=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanagr&layout=compact&hide_border=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanagr&layout=compact&hide_border=true&theme=default" />
 </p>
 
 ---
