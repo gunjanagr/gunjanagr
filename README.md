@@ -90,15 +90,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gunjanagr&show_icons=true&hide_border=true&theme=default&count_private=true" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanagr&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
 
 *"Data is only useful when it drives a decision."*
